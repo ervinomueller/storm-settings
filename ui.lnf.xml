@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="CYCLE_SCROLLING" value="false" />
+  </component>
+</application>
