@@ -4,7 +4,7 @@
     <browser-settings>
       <general>
         <display-mode value="TABBED" />
-        <navigation-history-size value="100" />
+        <navigation-history-size value="1000" />
         <show-object-details value="false" />
       </general>
       <filters>
@@ -93,7 +93,7 @@
       <tracking-columns>
         <columnNames value="" />
         <visible value="true" />
-        <editable value="false" />
+        <editable value="true" />
       </tracking-columns>
     </dataset-grid-settings>
     <dataset-editor-settings>
@@ -109,7 +109,7 @@
         <data-length-threshold value="250" />
       </values-list-popup>
       <general>
-        <fetch-block-size value="100" />
+        <fetch-block-size value="1000" />
         <fetch-timeout value="30" />
         <trim-whitespaces value="true" />
         <convert-empty-strings-to-null value="true" />
@@ -117,7 +117,7 @@
         <large-value-preview-active value="true" />
       </general>
       <filters>
-        <prompt-filter-dialog value="true" />
+        <prompt-filter-dialog value="false" />
         <default-filter-type value="BASIC" />
       </filters>
       <qualified-text-editor text-length-threshold="300">
