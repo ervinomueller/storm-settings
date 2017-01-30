@@ -10,8 +10,8 @@
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
-      <mask>*.scss</mask>
       <mask>*.css</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
