@@ -2,19 +2,20 @@
   <component name="FindSettings">
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
       <mask>*blade.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
