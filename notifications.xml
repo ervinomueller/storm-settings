@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="LIGHTWEIGHT_LICENSE_NOTIFICATION" displayType="NONE" />
+    <notification groupId="Platform and Plugin Updates" displayType="NONE" />
     <notification groupId="Settings Repository" displayType="STICKY_BALLOON" />
     <notification groupId="Vcs Notifications" shouldLog="false" />
   </component>
