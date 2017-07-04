@@ -2,7 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="wallpaperSet" value="false" />
+    <option name="wallpaper" value="$USER_HOME$/Imagens/dark-background-6.jpg" />
     <option name="statusBarTheme" value="false" />
   </component>
 </application>
