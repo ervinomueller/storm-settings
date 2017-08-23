@@ -4,5 +4,7 @@
     <option name="highlightColorEnabled" value="true" />
     <option name="wallpaper" value="$USER_HOME$/Imagens/dark-background-6.jpg" />
     <option name="statusBarTheme" value="false" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="defaultBackground" value="$USER_HOME$/Imagens/dark-background-6.jpg" />
   </component>
 </application>
